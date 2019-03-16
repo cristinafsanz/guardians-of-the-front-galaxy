@@ -1,5 +1,7 @@
 # Guardians of the front galaxy (T3chfest)
 
+This is a fork from the original repository: https://github.com/crisgrim/guardians-of-the-front-galaxy
+
 ## Project setup
 ```
 npm install
